@@ -3,5 +3,4 @@
 
 ### 🚀 RocketGame
 
-<p/ src="https://raw.githubusercontent.com/tketonen/Games/master/rocketgame_media/Rocketgame.png" height="400em" align="center"
-alt="RocketGame" title "RocketGame"/p>
+<img src="https://raw.githubusercontent.com/tketonen/Games/master/rocketgame_media/Rocketgame.png" width ="350" />
