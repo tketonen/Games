@@ -10,8 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/tketonen/Games/master/rocketgame_media/rocketgame_gif1.gif" width ="650" />
 
-- You'll also have to collect fuel to keep flying.
 - You collect coins to get better ships.
+- You'll also have to collect fuel to keep flying.
 
 <img src="https://raw.githubusercontent.com/tketonen/Games/master/rocketgame_media/rocketgame_gif2.gif" width ="650" />
 
