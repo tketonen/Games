@@ -17,7 +17,7 @@
 
 - You'll lose if hit three times, or if fuel runs out.
 
-### IceHockey game 
+### 🏒 IceHockey game 
 
 - Recreation of Nintendo's legendary ice hockey game from the 80's.
 - Still very much in progress.
