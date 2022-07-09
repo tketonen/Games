@@ -16,3 +16,10 @@
 <img src="https://raw.githubusercontent.com/tketonen/Games/master/rocketgame_media/rocketgame_gif2.gif" width ="650" />
 
 - You'll lose if hit three times, or if fuel runs out.
+
+### IceHockey game 
+
+- Recreation of Nintendo's legendary ice hockey game from the 80's.
+- Still very much in progress.
+
+<img src="https://raw.githubusercontent.com/tketonen/Games/master/icehockey_media/icehockeygif.gif" width ="650" />
